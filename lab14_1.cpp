@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 template <typename T>
 void insertionSort(T d[],int N){
 for(int i=1;i<N;i++){

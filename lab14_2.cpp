@@ -3,6 +3,7 @@ using namespace std;
 
 const int N = 5;
 
+
 void inputMatrix(double [][N]);
 
 void findLocalMax(const double [][N], bool [][N]);
